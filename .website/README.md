@@ -1,4 +1,8 @@
 ---
+genres:
+  - stealth
+  - action
+  - strategy
 post: https://medium.com/@niklas.b3rg/game-dev-postmortem-backstabber-hero-part-1-80c7def92c74
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
